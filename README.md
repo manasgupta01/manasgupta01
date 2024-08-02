@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://manasgupta.000webhostapp.com)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://manasgupta.netlify.app)
 <h1 align="center">Hi 👋, I'm manas gupta</h1>
 <h3 align="center">A passionate full stack web and android developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasgupta01" alt="manasgupta01" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://manasgupta.000webhostapp.com](https://manasgupta.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [https://manasgupta.netlify.app](https://manasgupta.netlify.app)
 
 - 💬 Ask me about **Android, MERN**
 
 - 📫 How to reach me **manasgupta7624@gmail.com**
 
-- 📄 Know about my experiences [https://manasgupta.000webhostapp.com/assets/pdf/Resume.pdf](https://manasgupta.000webhostapp.com/assets/pdf/Resume.pdf)
+- 📄 Know about my experiences [https://manasgupta.netlify.app/assets/pdf/Resume.pdf](https://manasgupta.netlify.app/assets/pdf/Resume.pdf)
 
 - ⚡ Fun fact **if my code works don't ask me how.**
 
